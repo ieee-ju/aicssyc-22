@@ -271,6 +271,16 @@ ol {
   Header
 -----------------------*/
 
+.blink_me {
+	animation: blinker 1s linear infinite;
+  }
+  
+  @keyframes blinker {
+	50% {
+	  opacity: 0;
+	}
+  }
+
 .header-section {
 	display: -webkit-box;
 	display: -ms-flexbox;
