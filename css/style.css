@@ -131,6 +131,10 @@ ol {
 	margin-bottom: 0;
 }
 
+.home-about-section {
+	background-color: #f4f6f8;
+}
+
 .set-bg {
 	background-repeat: no-repeat;
 	background-size: cover;
