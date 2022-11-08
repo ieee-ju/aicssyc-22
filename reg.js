@@ -10,9 +10,9 @@ const firebaseConfig = {
 
   firebase.initializeApp(firebaseConfig);
 
-  var contactFormDB = firebase.database().ref('contactForm');
+  var contactFormDB = firebase.database().ref('contactForm1');
 
-  document.getElementById('contactForm').addEventListener('submit',submitForm);
+  document.getElementById('contactForm1').addEventListener('submit',submitForm);
 
   function submitForm(e){
     e.preventDefault();
@@ -42,7 +42,7 @@ const firebaseConfig = {
 
   window.location.href = "thanks.html";
 
-  document.getElementById("contactForm").reset();
+  document.getElementById("contactForm1").reset();
 
   }
 
