@@ -119,8 +119,6 @@ ol {
 
 }
 
-
-
 .spad {
 	padding-top: 100px;
 	padding-bottom: 100px;
@@ -387,7 +385,6 @@ ol {
 	transition: width 0.3s;
 }
 
-
 .nav-menu .mainmenu ul li a::after {
 	position: absolute;
 	left: 0;
@@ -402,11 +399,7 @@ ol {
 	-webkit-transition: all 0.3s;
 	-o-transition: all 0.3s;
 	transition: width 0.3s;
-
 }
-
-
-
 
 .nav-menu .mainmenu ul li a:hover::after,
 .nav-menu .mainmenu ul li a.active-link::after {
@@ -455,7 +448,7 @@ ol {
 }
 
 /*---------------------
-  Conter
+  Counter
 -----------------------*/
 
 .counter-section {
@@ -525,7 +518,6 @@ ol {
 .home-about-section {
 	padding-bottom: 90px;
 	margin: auto;
-
 }
 
 .ha-pic {
@@ -538,7 +530,6 @@ ol {
 	min-width: 100%;
 	border-radius: 2px;
 	object-fit: cover;
-
 }
 
 .ha-text {
@@ -668,7 +659,6 @@ ol {
 	color: #89b7d1;
 	display: block;
 }
-
 
 /*---------------------
   Schedule Section
@@ -1270,48 +1260,6 @@ ol {
 	margin-right: 0;
 }
 
-/* ----------------------------------- Other Pages Styles ------------------------------- */
-
-/*---------------------
-  Breadcrumb
------------------------*/
-
-.breadcrumb-section {
-	padding: 75px 0 75px;
-}
-
-.breadcrumb-text {
-	text-align: center;
-}
-
-.breadcrumb-text h2 {
-	font-size: 40px;
-	color: #171822;
-	font-weight: 600;
-	margin-bottom: 14px;
-}
-
-.breadcrumb-text .bt-option a {
-	font-size: 18px;
-	color: #6a6b7c;
-	display: inline-block;
-	margin-right: 25px;
-	position: relative;
-}
-
-.breadcrumb-text .bt-option a:after {
-	position: absolute;
-	right: -17px;
-	top: 2px;
-	content: "";
-	font-family: "FontAwesome";
-}
-
-.breadcrumb-text .bt-option span {
-	display: inline-block;
-	color: #a0a1b5;
-}
-
 /*---------------------
   About Section
 -----------------------*/
@@ -1370,8 +1318,6 @@ ol {
 .about-text ul li span {
 	color: #89b7d1;
 }
-
-
 
 /*---------------------
   Story Section
@@ -1437,7 +1383,6 @@ ol {
 }
 
 /* #accordition .card-header button:hover {
-	
 	color: #000;
 } */
 
@@ -2693,7 +2638,6 @@ ol {
 		margin-left: 5px;
 	}
 }
-
 
 @media only screen and (min-width: 1200px) {
 	.container {
