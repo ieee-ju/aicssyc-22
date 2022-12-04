@@ -2281,9 +2281,9 @@ ol {
 
 
 	background-color: #fff;
-	box-shadow: 10px 10px 5px rgb(206, 206, 206);
+	/* box-shadow: 10px 10px 5px rgb(206, 206, 206);
 	-moz-border-radius: 5px;
-	-webkit-border-radius: 5px;
+	-webkit-border-radius: 5px; */
 	border-radius: 5px;
 }
 
