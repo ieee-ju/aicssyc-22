@@ -2453,9 +2453,6 @@ ol {
 	.member-item {
 		width: 25%;
 	}
-	.all__speakers .member-item .disappear{
-		display: none;
-	}
 }
 
 /* Large Mobile: 480px */
@@ -2467,9 +2464,6 @@ ol {
 
 	.member-item {
 		width: 100%;
-	}
-	.all__speakers .member-item .disappear{
-		display: none;
 	}
 
 	.newslatter-inner {
@@ -2604,9 +2598,6 @@ ol {
 
 	.member-item {
 		width: 100%;
-	}
-	.all__speakers .member-item .disappear{
-		display: none;
 	}
 
 	.newslatter-inner .ni-form {
